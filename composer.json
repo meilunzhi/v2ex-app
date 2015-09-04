@@ -6,7 +6,7 @@
     "type": "project",
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.1.12",
+        "laravel/framework": "5.1.16",
         "barryvdh/laravel-debugbar": "^2.0",
         "graham-campbell/markdown": "~4.0",
         "alt-three/emoji": "~1.2",
